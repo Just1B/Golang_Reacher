@@ -1,6 +1,7 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 
 # Reach urls & Test StatusCode 200
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 
 Open a series of urls.
 
